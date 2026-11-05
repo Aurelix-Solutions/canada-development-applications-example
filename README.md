@@ -2,6 +2,10 @@
 
 A small, runnable example for [Canada Building Permits Scraper](https://apify.com/aurelix/canada-building-permits-scraper), an Apify Actor by Aurelix.
 
+[![Canada Building Permits Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Canada Building Permits Scraper turns 10 official open-data datasets from Toronto, Calgary, Edmonton, Vancouver, Winnipeg, Kitchener and Montréal into one schema: Toronto development applications (rezoning, official plan, site plan, subdivision, condominium, part lot) and building permits, Calgary and Edmonton development and building permits, Winnipeg development permits, and Vancouver, Kitchener and Montréal issued building permits. Each record has the application number, type, category, address, postal code, ward, neighbourhood, coordinates, description, status, submitted, decision and issued dates, project value, builder or contractor company where published, and a link. Filter by dataset, days back, application type, status, ward and keyword. New-or-changed mode returns new applications and those whose status changed, such as Under Review to Approved.
