@@ -1,5 +1,8 @@
 # Canada Building Permits Scraper: Python example
 
+**Toronto Building Permits - Canada Dev Applications.** Building permits and development applications from 7 Canadian cities: address, type, status, dates, value, contractor company. Price, example input and output, and FAQ: [Canada Building Permits on the Aurelix tools site](https://aurelix-solutions.github.io/tools/canada-building-permits-scraper/). Run it on the Apify Store: [apify.com/aurelix/canada-building-permits-scraper](https://apify.com/aurelix/canada-building-permits-scraper).
+
+
 **The problem:** You want to hear about new construction projects in Canadian cities as soon as the city records them, before your competitors do.
 
 **The tool:** [Canada Building Permits Scraper](https://apify.com/aurelix/canada-building-permits-scraper), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
@@ -14,7 +17,7 @@ export APIFY_TOKEN=your_token_here
 python main.py
 ```
 
-[![Canada Building Permits Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-v1.mp4)
+[![Canada Building Permits: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-v1.mp4)
 
 **[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/canada-building-permits-scraper-demo-v1.mp4)**
 
